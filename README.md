@@ -16,12 +16,12 @@ Instead of a vague match percentage, it maps every job requirement to the specif
 
 Three stages, built during my internship at [Global Experience Specialists](https://www.ges.com/). Each one feeds the next. Presented to the CIO.
 
-1. **[TradeShow-Calendar-Cleaner](https://github.com/mekyle-s/TradeShow-Calendar-Cleaner)** — turns messy trade-show HTML into clean structured data
+1. **[TradeShow-Calendar-Cleaner](https://github.com/mekyle-s/TradeShow-Calendar-Cleaner)** — turns messy trade-show HTML into clean structured data, cutting data prep time ~90%
 2. **Market intelligence dashboard** — ranks 4,000+ global trade shows by ROI potential *(Power BI, internal)*
 3. **AI outreach agent** — finds the event organizer's primary contact and drafts a tailored email, then stops for human approval before anything sends. Orchestrated with LangGraph. *(private)*
 
 ---
 
-**Working with:** RAG · vector search · embeddings · LLM APIs · LangGraph orchestration · human-in-the-loop systems · Python · TypeScript · SQL · ETL pipelines
+**Working with:** RAG · vector search · embeddings · LLM APIs · LangGraph orchestration · human-in-the-loop systems · Python · TypeScript · SQL · Power BI · ETL pipelines
 
 📍 Dallas, TX · [LinkedIn](https://www.linkedin.com/in/m-siddiqi) · mekylesiddiqi@gmail.com
